@@ -6,3 +6,13 @@
 ![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-27.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-09.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-41.png)
+
+# Requirements
+
+<ul>
+<li>Expo (expo-cli)</li>
+<li>React Library</li>
+<li>React Native</li>
+<li>tic-tac-toe-ai-engine (npm library). Install using this cmd command $npm install tic-tac-toe-ai-engine</li>
+<li>Text Editor</li>
+</ul>
