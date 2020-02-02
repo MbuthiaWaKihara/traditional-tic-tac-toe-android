@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "tic-tac-toe",
+    "slug": "tic-tac-toe",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.personal.tictactoe",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.personal.tictactoe",
+      "buildNumber": "1.0.0"
+    }
+  }
+}
