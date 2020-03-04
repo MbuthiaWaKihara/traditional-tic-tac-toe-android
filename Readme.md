@@ -1,5 +1,5 @@
 # Traditional Tic Tac Toe (Android)
-![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-27.png)
+![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/first.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-09.png)
 ![view during testing](https://github.com/MbuthiaWaKihara/traditional-tic-tac-toe-android/blob/master/screenshots/Screenshot_2020-02-02-08-23-41.png)
 
